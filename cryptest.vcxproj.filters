@@ -440,9 +440,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="adhoc.cpp">
-      <Filter>Source Code</Filter>
-    </ClCompile>
     <ClCompile Include="test.cpp">
       <Filter>Source Code</Filter>
     </ClCompile>
